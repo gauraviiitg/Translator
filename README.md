@@ -1,5 +1,7 @@
 
 Hinglish Translator   #for Open_in_app
+
+
 The Hinglish Translator is a Python script that leverages machine translation models to accurately translate English text into Hinglish, a blend of Hindi and English. The script offers two distinct translation methods: one utilizing a transformer model and the other employing Google Translate as a backup solution. This versatile tool also incorporates the capability for user-guided review of translations and word replacements to enhance the quality of the translated output.
 
 Features
